@@ -1,2 +1,2 @@
 # aqa-advanced-2
-aqa-with-JS-group
+Now I can use git
